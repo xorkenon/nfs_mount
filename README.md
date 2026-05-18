@@ -22,12 +22,12 @@ Robust Error Handling: Includes multiple checks and informational messages
 
 **With IP only (default port)**
 ```
-./nfs_mount.sh 10.129.155.148
+./smart_nfs.sh 10.129.155.148
 ```
 
 **With custom IP and port**
 ```
-./nfs_mount.sh 10.129.155.148:2049
+./smart_nfs.sh 10.129.155.148:2049
 ```
 **Without parameters (it will ask for the IP and optionally the port)**
 ```
