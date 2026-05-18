@@ -36,5 +36,6 @@ Robust Error Handling: Includes multiple checks and informational messages
 Then you can enter: 10.129.155.148 or 10.129.155.148:2049
 
 <img width="648" height="533" alt="Captura de pantalla 2026-05-18 113501" src="https://github.com/user-attachments/assets/b102d6b3-33c8-43fd-a4f2-7013941b8a62" />
+<img width="552" height="322" alt="Captura de pantalla 2026-05-18 113645" src="https://github.com/user-attachments/assets/a9405b90-0551-48b0-868c-d1a86adceaad" />
 
 
