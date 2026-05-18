@@ -35,7 +35,6 @@ Robust Error Handling: Includes multiple checks and informational messages
 
 Then you can enter: 10.129.155.148 or 10.129.155.148:2049
 
-![nfs_mount1](https://github.com/user-attachments/assets/706bb458-767e-4521-b87b-bdf51fab6efc)
+<img width="648" height="533" alt="Captura de pantalla 2026-05-18 113501" src="https://github.com/user-attachments/assets/b102d6b3-33c8-43fd-a4f2-7013941b8a62" />
 
-![image](https://github.com/user-attachments/assets/641337f7-8af8-494c-8521-49aa5d227711)
 
