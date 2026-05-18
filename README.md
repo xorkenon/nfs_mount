@@ -27,11 +27,11 @@ Robust Error Handling: Includes multiple checks and informational messages
 
 **With custom IP and port**
 ```
-./smart_nfs.sh 10.129.155.148:2049
+./smart_nfs.sh 10.129.155.148 2049
 ```
-**Without parameters (it will ask for the IP and optionally the port)**
+**For unmount**
 ```
-./nfs_mount.sh
+./nfs_mount.sh --unmount
 ```
 
 Then you can enter: 10.129.155.148 or 10.129.155.148:2049
